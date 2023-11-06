@@ -21,3 +21,7 @@ Simple note taking application that allows you to add, delete and edit your own 
 ## Deployment 
 
 [Heroku URL](https://note-taker-sws-8b20e871c90b.herokuapp.com)
+
+## Preview 
+
+![Image Preview](./preview.png)
